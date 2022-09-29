@@ -14,5 +14,3 @@ This work contains peaces of code borrowed from the following repositories
 * []() [yolov4-deepsort](https://github.com/lab176344/yolov4-deepsort)
 * []() [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * []() [keras-facenet](https://github.com/nyoki-mtl/keras-facenet)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# exclude dataset
+dataset/*
+
+# exclude models
+model/cv2/*
+model/keras/*
+
+# exclude saved objects
+*.pkl
+
+# exclude yolo_deepsort models and images
+yolo_deepsort/data/images/*
+yolo_deepsort/data/*.weights
+yolo_deepsort/checkpoints/*
+
+
+
